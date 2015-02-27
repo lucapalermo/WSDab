@@ -13,6 +13,7 @@ public class User implements Serializable {
 	public User(String email, String name, String password, String gender,
 			String favouriteColour) {
 		super();
+		System.out.println("TestGit");
 		this.email = email;
 		this.name = name;
 		this.password = password;
