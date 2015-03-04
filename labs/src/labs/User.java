@@ -6,6 +6,8 @@ import javax.xml.bind.annotation.*;
 @XmlAccessorType(XmlAccessType.FIELD)
 public class User implements Serializable {
 	
+	//Test from laptop
+	
 	public User(){
 		super();
 	}
